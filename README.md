@@ -26,8 +26,8 @@ A arquitetura interna segue os princípios de Inversão de Dependência e Separa
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/Tierzitto/TS2_AV01.git
-cd TS2_AV01
+git clone https://github.com/Tierzitto/TP2_AV01.git
+cd TP2_AV01
 ```
 
 ### 2. Instalar Dependências
